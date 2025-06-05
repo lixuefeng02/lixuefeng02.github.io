@@ -35,6 +35,7 @@ Zengzhi Wang\*, Fan Zhou\*, **Xuefeng Li\***, Pengfei Liu \\
 <a href="https://natural-rugby-f7c.notion.site/OctoThinker-Revisiting-Mid-Training-1d20b810e2d680c494a9f9dad0a90d53" style="pdf"><span>Blog</span></a> / 
 <a href="https://github.com/GAIR-NLP/OctoThinker" style="code"><span>Code</span></a> / 
 <a href="https://huggingface.co/OctoThinker" style="pdf"><span>Resources</span></a> \\
+<br>
 </div>
 
 <div class="paper-box-text" data-selected="false" markdown="1">
@@ -43,6 +44,7 @@ Shijie Xia, Yiwei Qin, **Xuefeng Li**, Yan Ma, Run-Ze Fan, Steffi Chern, Haoyang
 **2025, Preprint**. <br>
 <a href="https://arxiv.org/abs/2504.13828" style="pdf"><span>PDF</span></a> / 
 <a href="https://github.com/GAIR-NLP/cognition-engineering" style="code"><span>Code</span></a> \\
+<br>
 </div>
 
 <div class="paper-box-text" data-selected="true" markdown="1">
@@ -52,7 +54,6 @@ Shijie Xia, Yiwei Qin, **Xuefeng Li**, Yan Ma, Run-Ze Fan, Steffi Chern, Haoyang
 <a href="https://arxiv.org/pdf/2503.23383" style="pdf"><span>PDF</span></a> / 
 <a href="https://github.com/GAIR-NLP/ToRL" style="code"><span>Code</span></a> \\
 <br>
-<br>
 </div>
 
 <div class="paper-box-text" data-selected="true" markdown="1">
@@ -61,6 +62,7 @@ Shijie Xia, Yiwei Qin, **Xuefeng Li**, Yan Ma, Run-Ze Fan, Steffi Chern, Haoyang
 **2025, Preprint**. <br>
 <a href="https://arxiv.org/pdf/2502.11886" style="pdf"><span>PDF</span></a> / 
 <a href="https://github.com/GAIR-NLP/LIMR" style="code"><span>Code</span></a> \\
+<br>
 </div>
 
 <div class="paper-box-text" data-selected="false" markdown="1">
@@ -69,6 +71,7 @@ Shijie Xia, Yiwei Qin, **Xuefeng Li**, Yan Ma, Run-Ze Fan, Steffi Chern, Haoyang
 **2025, Preprint**. <br>
 <a href="https://arxiv.org/pdf/2502.11886" style="pdf"><span>PDF</span></a> / 
 <a href="https://github.com/GAIR-NLP/LIMR" style="code"><span>Code</span></a> \\
+<br>
 </div>
 
 <div class="paper-box-text" data-selected="false" markdown="1">
@@ -77,6 +80,7 @@ Zhen Huang\*, Haoyang Zou\*, **Xuefeng Li\***, Yixiu Liu\*, Yuxiang Zheng\*, Eth
 **2025, Preprint**. <br>
 <a href="https://arxiv.org/pdf/2502.11886" style="pdf"><span>PDF</span></a> / 
 <a href="https://github.com/GAIR-NLP/LIMR" style="code"><span>Code</span></a> \\
+<br>
 </div>
 
 <div class="paper-box-text" data-selected="true" markdown="1">
@@ -85,6 +89,7 @@ Yiwei Qin\*, **Xuefeng Li\***, Haoyang Zou\*, Yixiu Liu\*, Shijie Xia\*, Zhen Hu
 **2025, Preprint**. <br>
 <a href="https://arxiv.org/abs/2410.18982" style="pdf"><span>PDF</span></a> / 
 <a href="https://github.com/GAIR-NLP/O1-Journey" style="code"><span>Code</span></a> \\
+<br>
 </div>
 
 
@@ -94,7 +99,8 @@ Yiwei Qin\*, **Xuefeng Li\***, Haoyang Zou\*, Yixiu Liu\*, Shijie Xia\*, Zhen Hu
 <strong><font color="#374798">Synthesizing Verified Mathematical Problems</font></strong>\\
 **Xuefeng Li\***, Haoyang Zou\*, Pengfei Liu \\
 **NeurIPS2024 MATHAI Workshop**. <br>
-<a href="https://openreview.net/pdf?id=L5US093OwO" style="pdf"><span>PDF</span></a> 
+<a href="https://openreview.net/pdf?id=L5US093OwO" style="pdf"><span>PDF</span></a>  \\
+<br>
 </div>
 
 
@@ -104,6 +110,7 @@ Yuxiang Zheng, Shichao Sun, Lin Qiu, Dongyu Ru, Cheng Jiayang, **Xuefeng Li**, J
 **EMNLP2024**. <br>
 <a href="https://arxiv.org/pdf/2502.11886" style="pdf"><span>PDF</span></a> / 
 <a href="https://github.com/GAIR-NLP/LIMR" style="code"><span>Code</span></a> \\
+<br>
 </div>
 
 
@@ -113,6 +120,7 @@ Ting Wu, **Xuefeng Li**, Pengfei Liu \\
 **ICLR 2025**. <br>
 <a href="https://arxiv.org/pdf/2407.05013" style="pdf"><span>PDF</span></a> / 
 <a href="https://github.com/GAIR-NLP/self-improvement-reversal" style="code"><span>Code</span></a> \\
+<br>
 </div>
 
 
@@ -123,6 +131,7 @@ Zhen Huang, Zengzhi Wang, Shijie Xia, **Xuefeng Li**, Haoyang Zou, Ruijie Xu, Ru
 <a href="https://arxiv.org/abs/2406.12753" style="pdf"><span>PDF</span></a> /
 <a href="https://github.com/GAIR-NLP/OlympicArena" style="code"><span>Code</span></a> /
 <a href="https://huggingface.co/datasets/GAIR/OlympicArena" style="pdf"><span>Datasets</span></a> \\
+<br>
 </div>
 
 <div class="paper-box-text" data-selected="false" markdown="1">
@@ -131,6 +140,7 @@ Run-Ze Fan, **Xuefeng Li**, Haoyang Zou, Junlong Li, Shwai He, Ethan Chern, Jiew
 **EMNLP2024 Findings**. <br>
 <a href="https://arxiv.org/pdf/2402.12219" style="pdf"><span>PDF</span></a> / 
 <a href="https://github.com/GAIR-NLP/ReAlign" style="code"><span>Code</span></a> \\
+<br>
 </div>
 
 <div class="paper-box-text" data-selected="false" markdown="1">
@@ -139,6 +149,7 @@ Shijie Xia, **Xuefeng Li**, Yixin Liu, Tongshuang Wu, Pengfei Liu \\
 **AAAI2025**. <br>
 <a href="https://arxiv.org/pdf/2404.05692" style="pdf"><span>PDF</span></a> / 
 <a href="https://github.com/GAIR-NLP/ReasonEval" style="code"><span>Code</span></a> \\
+<br>
 </div>
 
 <div class="paper-box-text" data-selected="false" markdown="1">
@@ -147,6 +158,7 @@ Zengzhi Wang, **Xuefeng Li**, Rui Xia, Pengfei Liu \\
 **NeurIPS2024**. <br>
 <a href="https://arxiv.org/pdf/2312.17120" style="pdf"><span>PDF</span></a> / 
 <a href="https://github.com/GAIR-NLP/MathPile" style="code"><span>Code</span></a> \\
+<br>
 </div>
 
 <div class="paper-box-text" data-selected="true" markdown="1">
@@ -154,6 +166,7 @@ Zengzhi Wang, **Xuefeng Li**, Rui Xia, Pengfei Liu \\
 Ethan Chern, Haoyang Zou, **Xuefeng Li**, Jiewen Hu, Kehua Feng, Junlong Li, Pengfei \\
 **2024, Github**. <br>
 <a href="https://github.com/GAIR-NLP/Abel" style="code"><span>Code</span></a> \\
+<br>
 </div>
 
 
