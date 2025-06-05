@@ -18,13 +18,12 @@
   <span id="fullHeader" onclick="filterPubs('full')">Full</span>
 </h1>
 
-<div class="paper-box-text" data-selected="true" markdown="1">
+<div class="paper-box-text" data-selected="false" markdown="1">
 <strong><font color="#374798">Enigmata: Scaling Logical Reasoning in Large Language Models with Synthetic Verifiable Puzzles</font></strong>\\
 Jiangjie Chen\*, Qianyu He\*, Siyu Yuan\*, Aili Chen\*, Zhicheng Cai, Weinan Dai, Hongli Yu, Qiying Yu, **Xuefeng Li**, Jiaze Chen, Hao Zhou, Mingxuan Wang \\
 **2025, Blog**. <br>
 <a href="https://arxiv.org/pdf/2505.19914" style="pdf"><span>Blog</span></a> / 
 <a href="https://seed-enigmata.github.io/" style="code"><span>Code</span></a> / 
-<img src="images/huggingface_logo.svg" width=23em style="vertical-align: middle;"> 
 <a href="https://huggingface.co/BytedTsinghua-SIA/Enigmata-Qwen2.5-32B" style="pdf"><span>Resources</span></a> /
 <a href="https://github.com/BytedTsinghua-SIA/Enigmata"> \\
 </a>
@@ -38,10 +37,7 @@ Zengzhi Wang\*, Fan Zhou\*, **Xuefeng Li\***, Pengfei Liu \\
 **2025, Blog**. <br>
 <a href="https://natural-rugby-f7c.notion.site/OctoThinker-Revisiting-Mid-Training-1d20b810e2d680c494a9f9dad0a90d53" style="pdf"><span>Blog</span></a> / 
 <a href="https://github.com/GAIR-NLP/OctoThinker" style="code"><span>Code</span></a> / 
-<img src="images/huggingface_logo.svg" width=23em style="vertical-align: middle;"> 
-<a href="https://huggingface.co/OctoThinker" style="pdf"><span>Resources</span></a> /
-<a href="https://github.com/GAIR-NLP/OctoThinker">
-<img src="https://img.shields.io/github/stars/GAIR-NLP/OctoThinker?style=social" style="vertical-align: middle;"> \\
+<a href="https://huggingface.co/OctoThinker" style="pdf"><span>Resources</span></a> \\
 </a>
 <br>
 <br>
@@ -52,9 +48,99 @@ Zengzhi Wang\*, Fan Zhou\*, **Xuefeng Li\***, Pengfei Liu \\
 Shijie Xia, Yiwei Qin, **Xuefeng Li**, Yan Ma, Run-Ze Fan, Steffi Chern, Haoyang Zou, Fan Zhou, Xiangkun Hu, Jiahe Jin, Yanheng He, Yixin Ye, Yixiu Liu, Pengfei Liu \\
 **2025, Preprint**. <br>
 <a href="https://arxiv.org/abs/2504.13828" style="pdf"><span>PDF</span></a> / 
-<a href="https://github.com/GAIR-NLP/cognition-engineering" style="code"><span>Code</span></a> / 
-<a href="https://github.com/GAIR-NLP/cognition-engineering">
-<img src="https://img.shields.io/github/stars/GAIR-NLP/cognition-engineering?style=social" style="vertical-align: middle;"> \\
+<a href="https://github.com/GAIR-NLP/cognition-engineering" style="code"><span>Code</span></a> \\
+</a>
+<br>
+<br>
+</div>
+
+<div class="paper-box-text" data-selected="true" markdown="1">
+<strong><font color="#374798">Torl: Scaling tool-integrated rl</font></strong>\\
+**Xuefeng Li\***, Haoyang Zou\*, Pengfei Liu \\
+**2025, Preprint**. <br>
+<a href="https://arxiv.org/pdf/2503.23383" style="pdf"><span>PDF</span></a> / 
+<a href="https://github.com/GAIR-NLP/ToRL" style="code"><span>Code</span></a> \\
+</a>
+<br>
+<br>
+</div>
+
+<div class="paper-box-text" data-selected="true" markdown="1">
+<strong><font color="#374798">Limr: Less is more for rl scaling</font></strong>\\
+**Xuefeng Li\***, Haoyang Zou\*, Pengfei Liu \\
+**2025, Preprint**. <br>
+<a href="https://arxiv.org/pdf/2502.11886" style="pdf"><span>PDF</span></a> / 
+<a href="https://github.com/GAIR-NLP/LIMR" style="code"><span>Code</span></a> \\
+</a>
+<br>
+<br>
+</div>
+
+<div class="paper-box-text" data-selected="false" markdown="1">
+<strong><font color="#374798">Limr: Less is more for rl scaling</font></strong>\\
+**Xuefeng Li\***, Haoyang Zou\*, Pengfei Liu \\
+**2025, Preprint**. <br>
+<a href="https://arxiv.org/pdf/2502.11886" style="pdf"><span>PDF</span></a> / 
+<a href="https://github.com/GAIR-NLP/LIMR" style="code"><span>Code</span></a> \\
+</a>
+<br>
+<br>
+</div>
+
+<div class="paper-box-text" data-selected="false" markdown="1">
+<strong><font color="#374798">O1 Replication Journey -- Part 2: Surpassing O1-preview through Simple Distillation, Big Progress or Bitter Lesson?</font></strong>\\
+Zhen Huang\*, Haoyang Zou\*, **Xuefeng Li\***, Yixiu Liu\*, Yuxiang Zheng\*, Ethan Chern\*, Shijie Xia\*, Yiwei Qin, Weizhe Yuan, Pengfei Liu  \\
+**2025, Preprint**. <br>
+<a href="https://arxiv.org/pdf/2502.11886" style="pdf"><span>PDF</span></a> / 
+<a href="https://github.com/GAIR-NLP/LIMR" style="code"><span>Code</span></a> \\
+</a>
+<br>
+<br>
+</div>
+
+<div class="paper-box-text" data-selected="true" markdown="1">
+<strong><font color="#374798">O1 Replication Journey: A Strategic Progress Report--Part 1</font></strong>\\
+Yiwei Qin\*, **Xuefeng Li\***, Haoyang Zou\*, Yixiu Liu\*, Shijie Xia\*, Zhen Huang, Yixin Ye, Weizhe Yuan, Hector Liu, Yuanzhi Li, Pengfei Liu \\
+**2025, Preprint**. <br>
+<a href="https://arxiv.org/abs/2410.18982" style="pdf"><span>PDF</span></a> / 
+<a href="https://github.com/GAIR-NLP/O1-Journey" style="code"><span>Code</span></a> \\
+</a>
+<br>
+<br>
+</div>
+
+
+
+
+<div class="paper-box-text" data-selected="false" markdown="1">
+<strong><font color="#374798">Synthesizing Verified Mathematical Problems</font></strong>\\
+**Xuefeng Li\***, Haoyang Zou\*, Pengfei Liu \\
+**NeurIPS2024 MATHAI Workshop**. <br>
+<a href="https://openreview.net/pdf?id=L5US093OwO" style="pdf"><span>PDF</span></a> 
+</a>
+<br>
+<br>
+</div>
+
+
+<div class="paper-box-text" data-selected="false" markdown="1">
+<strong><font color="#374798">OpenResearcher: Unleashing AI for Accelerated Scientific Research</font></strong>\\
+Yuxiang Zheng, Shichao Sun, Lin Qiu, Dongyu Ru, Cheng Jiayang, **Xuefeng Li**, Jifan Lin, Binjie Wang, Yun Luo, Renjie Pan, Yang Xu, Qingkai Min, Zizhao Zhang, Yiwen Wang, Wenjie Li, Pengfei Liu \\
+**EMNLP2024**. <br>
+<a href="https://arxiv.org/pdf/2502.11886" style="pdf"><span>PDF</span></a> / 
+<a href="https://github.com/GAIR-NLP/LIMR" style="code"><span>Code</span></a> \\
+</a>
+<br>
+<br>
+</div>
+
+
+<div class="paper-box-text" data-selected="true" markdown="1">
+<strong><font color="#374798">Progress or regress? self-improvement reversal in post-training</font></strong>\\
+Ting Wu, **Xuefeng Li**, Pengfei Liu \\
+**ICLR 2025**. <br>
+<a href="https://arxiv.org/pdf/2407.05013" style="pdf"><span>PDF</span></a> / 
+<a href="https://github.com/GAIR-NLP/self-improvement-reversal" style="code"><span>Code</span></a> \\
 </a>
 <br>
 <br>
@@ -64,16 +150,55 @@ Shijie Xia, Yiwei Qin, **Xuefeng Li**, Yan Ma, Run-Ze Fan, Steffi Chern, Haoyang
 <div class="paper-box-text" data-selected="false" markdown="1">
 <strong><font color="#374798">OlympicArena: Benchmarking Multi-discipline Cognitive Reasoning for Superintelligent AI</font></strong>\\
 Zhen Huang, Zengzhi Wang, Shijie Xia, **Xuefeng Li**, Haoyang Zou, Ruijie Xu, Run-Ze Fan, Lyumanshan Ye, Ethan Chern, Yixin Ye, Yikai Zhang, Yuqing Yang, Ting Wu, Binjie Wang, Shichao Sun, Yang Xiao, Yiyuan Li, Fan Zhou, Steffi Chern, Yiwei Qin, Yan Ma, Jiadi Su, Yixiu Liu, Yuxiang Zheng, Shaoting Zhang, Dahua Lin, Yu Qiao, Pengfei Liu \\
-**Neurips 2024 (DB track)** <br>
+**Neurips2024** <br>
 <a href="https://arxiv.org/abs/2406.12753" style="pdf"><span>PDF</span></a> /
 <a href="https://github.com/GAIR-NLP/OlympicArena" style="code"><span>Code</span></a> /
-<img src="images/huggingface_logo.svg" width=23em style="vertical-align: middle;"> 
-<a href="https://huggingface.co/datasets/GAIR/OlympicArena" style="pdf"><span>Datasets</span></a> /
-<a href="https://gair-nlp.github.io/OlympicArena/" style="pdf"><span>Project Page</span></a> /
-<a href="https://github.com/GAIR-NLP/OlympicArena">
-<img src="https://img.shields.io/github/stars/GAIR-NLP/OlympicArena?style=social" style="vertical-align: middle;"> \\
+<a href="https://huggingface.co/datasets/GAIR/OlympicArena" style="pdf"><span>Datasets</span></a> \\
 </a>
 <span>A challenging multi-modal olympic competition benchmark for LLMs and LVMs.</span> 
+<br>
+<br>
+</div>
+
+<div class="paper-box-text" data-selected="false" markdown="1">
+<strong><font color="#374798">Reformatted alignment</font></strong>\\
+Run-Ze Fan, **Xuefeng Li**, Haoyang Zou, Junlong Li, Shwai He, Ethan Chern, Jiewen Hu, Pengfei Liu \\
+**EMNLP2024 Findings**. <br>
+<a href="https://arxiv.org/pdf/2402.12219" style="pdf"><span>PDF</span></a> / 
+<a href="https://github.com/GAIR-NLP/ReAlign" style="code"><span>Code</span></a> \\
+</a>
+<br>
+<br>
+</div>
+
+<div class="paper-box-text" data-selected="false" markdown="1">
+<strong><font color="#374798">Evaluating mathematical reasoning beyond accuracy</font></strong>\\
+Shijie Xia, **Xuefeng Li**, Yixin Liu, Tongshuang Wu, Pengfei Liu \\
+**AAAI2025**. <br>
+<a href="https://arxiv.org/pdf/2404.05692" style="pdf"><span>PDF</span></a> / 
+<a href="https://github.com/GAIR-NLP/ReasonEval" style="code"><span>Code</span></a> \\
+</a>
+<br>
+<br>
+</div>
+
+<div class="paper-box-text" data-selected="false" markdown="1">
+<strong><font color="#374798">Mathpile: A billion-token-scale pretraining corpus for math</font></strong>\\
+Zengzhi Wang, **Xuefeng Li**, Rui Xia, Pengfei Liu \\
+**NeurIPS2024**. <br>
+<a href="https://arxiv.org/pdf/2312.17120" style="pdf"><span>PDF</span></a> / 
+<a href="https://github.com/GAIR-NLP/MathPile" style="code"><span>Code</span></a> \\
+</a>
+<br>
+<br>
+</div>
+
+<div class="paper-box-text" data-selected="true" markdown="1">
+<strong><font color="#374798">Generative ai for math: Abel</font></strong>\\
+Ethan Chern, Haoyang Zou, **Xuefeng Li**, Jiewen Hu, Kehua Feng, Junlong Li, Pengfei \\
+****. <br>
+<a href="https://github.com/GAIR-NLP/Abel" style="code"><span>Code</span></a> \\
+</a>
 <br>
 <br>
 </div>
