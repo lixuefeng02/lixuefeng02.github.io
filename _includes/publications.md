@@ -26,7 +26,9 @@ Jiangjie Chen\*, Qianyu He\*, Siyu Yuan\*, Aili Chen\*, Zhicheng Cai, Weinan Dai
 <a href="https://seed-enigmata.github.io/" style="code"><span>Code</span></a> / 
 <a href="https://huggingface.co/BytedTsinghua-SIA/Enigmata-Qwen2.5-32B" style="pdf"><span>Resources</span></a> /
 <a href="https://github.com/BytedTsinghua-SIA/Enigmata"> \\
+<br>
 </div>
+
 
 <div class="paper-box-text" data-selected="true" markdown="1">
 <strong><font color="#374798">OctoThinker: Revisiting Mid-Training In the Era of RL Scaling</font></strong>\\
@@ -65,14 +67,6 @@ Shijie Xia, Yiwei Qin, **Xuefeng Li**, Yan Ma, Run-Ze Fan, Steffi Chern, Haoyang
 <br>
 </div>
 
-<div class="paper-box-text" data-selected="false" markdown="1">
-<strong><font color="#374798">Limr: Less is more for rl scaling</font></strong>\\
-**Xuefeng Li\***, Haoyang Zou\*, Pengfei Liu \\
-**2025, Preprint**. <br>
-<a href="https://arxiv.org/pdf/2502.11886" style="pdf"><span>PDF</span></a> / 
-<a href="https://github.com/GAIR-NLP/LIMR" style="code"><span>Code</span></a> \\
-<br>
-</div>
 
 <div class="paper-box-text" data-selected="false" markdown="1">
 <strong><font color="#374798">O1 Replication Journey -- Part 2: Surpassing O1-preview through Simple Distillation, Big Progress or Bitter Lesson?</font></strong>\\
