@@ -180,7 +180,7 @@ Zengzhi Wang, **Xuefeng Li**, Rui Xia, Pengfei Liu \\
 <div class="paper-box-text" data-selected="true" markdown="1">
 <strong><font color="#374798">Generative ai for math: Abel</font></strong>\\
 Ethan Chern, Haoyang Zou, **Xuefeng Li**, Jiewen Hu, Kehua Feng, Junlong Li, Pengfei \\
-****. <br>
+**2024, Github**. <br>
 <a href="https://github.com/GAIR-NLP/Abel" style="code"><span>Code</span></a> \\
 <br>
 <br>

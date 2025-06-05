@@ -30,8 +30,6 @@ Previously, I obtained my Bachelor Degree at [Beihang University](https://www.bu
 ## Research Interests
 I an general interested in the field of **Large Language Models (LLMs)**. Currently, I am particularly interested in the Large Language Model Reasoning and Planning.
 
-<!-- 
-
 # 🔥 News
 
 <style>  
@@ -79,22 +77,11 @@ I an general interested in the field of **Large Language Models (LLMs)**. Curren
 
 <div class="scrollable-area" style="width:100%;">
     <ul>
-        <li><em>2025.05</em>: 📄 <strong>ProX</strong> and <strong>MSTaR</strong> paper are accepted by ICML'25.</li>
         <li><em>2025.04</em>: 🔥 Say hi to <strong>OctoThinker</strong>, a mid-training ablation study in the era of RL scaling.</li>
-        <li><em>2025.04</em>: 🔥 We release <strong>MegaMath</strong>, the largest math pre-training dataset to date containing 370B tokens.</li>
-        <li><em>2024.12</em>: 🔥 Enjoy <a href="https://sea-sailor.github.io/blog/sailor2/"><strong>Sailor2</strong></a>, a state-of-the-art language model family for south-east asia.</li>
-        <li><em>2024.11</em>: 🔥 We have released <a href="https://mstar-lmm.github.io/"><strong>MStaR</strong></a>, a self-evolving training recipe for multimodal reasoning.</li>
-        <li><em>2024.09</em>: 🔥 We have released <a href="https://arxiv.org/abs/2409.17115"><strong>ProX</strong></a>, a small-LM-based pre-training data refining framework!</li>
-        <li><em>2024.09</em>: 📄 <strong>OlympicArena</strong> paper is accepted by Neurips'24.</li>
-        <li><em>2024.07</em>: 📄 <strong>OpenAgents</strong> paper is accepted by COLM'24.</li>
-        <li><em>2024.05</em>: 📄 <strong>Preference Dissection</strong> paper is accepted by ACL'24.</li>
-        <li><em>2024.01</em>: 📄 Our <strong>Lemur</strong> paper(Agent Model) is accepted by ICLR'24 (<strong><font color="#cc0000">Spotlight</font></strong>, 5%).</li>  
-        <li><em>2023.10</em>: 🔥 We've built <a href="https://github.com/xlang-ai/OpenAgents">OpenAgents</a>, an open platform for language agents in the wild!</li>  
-        <li><em>2023.10</em>: 🙋 We have released <a href="https://arxiv.org/abs/2310.06830">Lemur-70B</a>, an agentic language model based on LLama-2!</li>  
-        <li><em>2023.04</em>: 🔥 New <a href="https://arxiv.org/abs/2304.07995">preprint</a> applying <strong>symbolic tasks</strong> in <strong>instruction tuning</strong></li>  
-        <li><em>2022.10</em>: 📄 Our <strong>TaCube</strong> paper(Table QA) is accepted by EMNLP'22 (<strong><font color="#cc0000">Oral</font></strong> Presentation).</li>  
+        <li><em>2025.03</em>: 🔥 Checkout <strong>ToRL</strong>, tool-integrated RL scaling.</li>
+        <li><em>2025.02</em>: 🔥 Checkout <strong>LIMR</strong>, Less is more for RL scaling.</li>
     </ul>  
-</div> -->
+</div>
 
 <!-- import publications markdown -->
 {% include publications.md %}
