@@ -106,8 +106,8 @@ Host your own ChatGPT Plus locally!
 
 # Exeperiences
 
-- <img src="images/education.png" width=18em style="vertical-align: middle;"> _2020.09 - 2024.06_, B.S.@BUAA, CS.
-- <img src="images/education.png" width=18em style="vertical-align: middle;"> _2024.09 - 2029.06_(expected), Ph.D.@SJTU, CS.
+- _2020.09 - 2024.06_, B.S.@BUAA, CS.
+-  _2024.09 - 2029.06_(Expected), Ph.D.@SJTU, CS.
 <!-- - <img src="images/intern.png" width=18em style="vertical-align: middle;"> _2021.10 - 2022.08_, Intern@MSRA. -->
 <!-- - <img src="images/intern.png" width=18em style="vertical-align: middle;"> _2023.09 - 2023.09_, Intern@XLang-HKU. -->
 <!-- - <img src="images/intern.png" width=18em style="vertical-align: middle;"> _2024.02 -_, Research Collaborator@Sea AI Lab, Singapore. -->
