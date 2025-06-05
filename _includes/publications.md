@@ -97,7 +97,7 @@ Yiwei Qin\*, **Xuefeng Li\***, Haoyang Zou\*, Yixiu Liu\*, Shijie Xia\*, Zhen Hu
 
 <div class="paper-box-text" data-selected="true" markdown="1">
 <strong><font color="#374798">Synthesizing Verified Mathematical Problems</font></strong>\\
-**Xuefeng Li\***, Haoyang Zou\*, Pengfei Liu \\
+**Xuefeng Li\***, Yanheng He\*, Pengfei Liu \\
 **NeurIPS2024 MATHAI Workshop**. <br>
 <a href="https://openreview.net/pdf?id=L5US093OwO" style="pdf"><span>PDF</span></a>  \\
 <br>
