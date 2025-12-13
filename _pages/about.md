@@ -23,7 +23,7 @@ redirect_from:
 
 </style>
 # About Me
-I am Xuefeng Li(李学峰), currently a first-year PhD student at [GAIR Lab](https://plms.ai/), Shanghai Jiao Tong University,advised by Prof. [Pengfei Liu](http://pfliu.com/).
+I am Xuefeng Li(李学峰), currently a PhD student at [GAIR Lab](https://plms.ai/), Shanghai Jiao Tong University,advised by Prof. [Pengfei Liu](http://pfliu.com/).
 
 Previously, I obtained my Bachelor Degree at [Beihang University](https://www.buaa.edu.cn/) (BUAA), major in computer science.
 
