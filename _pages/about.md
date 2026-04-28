@@ -23,12 +23,15 @@ redirect_from:
 
 </style>
 # About Me
-I am Xuefeng Li(李学峰), currently a PhD student at [GAIR Lab](https://plms.ai/), Shanghai Jiao Tong University,advised by Prof. [Pengfei Liu](http://pfliu.com/).
+I am Xuefeng Li (李学峰), currently a PhD student at [GAIR Lab](https://plms.ai/), Shanghai Jiao Tong University, advised by Prof. [Pengfei Liu](http://pfliu.com/).
 
-Previously, I obtained my Bachelor Degree at [Beihang University](https://www.buaa.edu.cn/) (BUAA), major in computer science.
+Previously, I was a research intern at [ByteDance Seed](https://seed.bytedance.com/) from July 2024 to May 2025, supervised by [Jiangjie Chen](https://jiangjiechen.github.io/), where I worked on data synthesis for reasoning models, reasoning efficiency, and reinforcement learning. From July 2025 to April 2026, I was also a research intern at [WILL](https://www.wizardquant.com/will), supervised by [Kaixiang Lin](https://kaixianglin.github.io/), where I worked on building a frontier reasoning model, including data collection and model training.
+
+
+<!-- Previously, I obtained my Bachelor Degree at [Beihang University](https://www.buaa.edu.cn/) (BUAA), major in computer science. -->
 
 ## Research Interests
-I an general interested in the field of **Large Language Models (LLMs)**. Currently, I am particularly interested in the Large Language Model Reasoning and Planning.
+I am generally interested in the field of **Large Language Models (LLMs)**. Currently, I am particularly interested in reasoning and Agent.
 
 # 🔥 News
 
@@ -113,4 +116,3 @@ Host your own ChatGPT Plus locally!
 <!-- - <img src="images/intern.png" width=18em style="vertical-align: middle;"> _2024.02 -_, Research Collaborator@Sea AI Lab, Singapore. -->
 <!-- - <img src="images/intern.png" width=18em style="vertical-align: middle;"> _2024.01 - 2024.06_, Research Assistant@Shanghai AI Lab, Shanghai. -->
 <!-- - <img src="images/intern.png" width=18em style="vertical-align: middle;"> _2024.06 - 2025.04_, Intern@LLM360. -->
-
