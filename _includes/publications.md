@@ -29,6 +29,7 @@
 
 <div class="paper-box-text" data-selected="true" markdown="1">
 <strong><font color="#374798">daVinci-Math: A Routing-Aware Data Pipeline for End-to-End Mathematical Reasoning</font></strong>\\
+**Xuefeng Li**, Yang Nan, Zhen Huang, Qipeng Guo, Pengfei Liu \\
 **2026**. <br>
 <a href="https://openreview.net/pdf?id=SoSTI5Dxol" style="pdf"><span>PDF</span></a> \\
 <br>
