@@ -36,6 +36,7 @@
 
 <div class="paper-box-text" data-selected="true" markdown="1">
 <strong><font color="#374798">UMoE: Unlocking Every Expert in Domain-Specific Training</font></strong>\\
+**Xuefeng Li**, Pengfei Liu \\
 **2026, Preprint**. <br>
 <a href="https://arxiv.org/abs/2607.11444" style="pdf"><span>PDF</span></a> \\
 <br>
