@@ -18,6 +18,29 @@
   <span id="fullHeader" onclick="filterPubs('full')">Full</span>
 </h1>
 
+<div class="paper-box-text" data-selected="true" markdown="1">
+<strong><font color="#374798">No Second Run: Does RSI Stop at Frontier Pre-training?</font></strong>\\
+801 Team \\
+**2026, Technical Report**. <br>
+<a href="https://github.com/GAIR-NLP/801-30B/blob/main/report.pdf" style="pdf"><span>PDF</span></a> /
+<a href="https://github.com/GAIR-NLP/801-30B" style="code"><span>Code</span></a> \\
+<br>
+</div>
+
+<div class="paper-box-text" data-selected="true" markdown="1">
+<strong><font color="#374798">daVinci-Math: A Routing-Aware Data Pipeline for End-to-End Mathematical Reasoning</font></strong>\\
+**2026**. <br>
+<a href="https://openreview.net/pdf?id=SoSTI5Dxol" style="pdf"><span>PDF</span></a> \\
+<br>
+</div>
+
+<div class="paper-box-text" data-selected="true" markdown="1">
+<strong><font color="#374798">UMoE: Unlocking Every Expert in Domain-Specific Training</font></strong>\\
+**2026, Preprint**. <br>
+<a href="https://arxiv.org/abs/2607.11444" style="pdf"><span>PDF</span></a> \\
+<br>
+</div>
+
 <div class="paper-box-text" data-selected="false" markdown="1">
 <strong><font color="#374798">Enigmata: Scaling Logical Reasoning in Large Language Models with Synthetic Verifiable Puzzles</font></strong>\\
 Jiangjie Chen\*, Qianyu He\*, Siyu Yuan\*, Aili Chen\*, Zhicheng Cai, Weinan Dai, Hongli Yu, Qiying Yu, **Xuefeng Li**, Jiaze Chen, Hao Zhou, Mingxuan Wang \\

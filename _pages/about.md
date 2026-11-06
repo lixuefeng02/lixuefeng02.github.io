@@ -27,6 +27,8 @@ I am Xuefeng Li (李学峰), currently a PhD student at [GAIR Lab](https://plms.
 
 Previously, I was a research intern at [ByteDance Seed](https://seed.bytedance.com/) from July 2024 to May 2025, supervised by [Jiangjie Chen](https://jiangjiechen.github.io/), where I worked on data synthesis for reasoning models, reasoning efficiency, and reinforcement learning. From July 2025 to April 2026, I was also a research intern at [WILL](https://www.wizardquant.com/will), supervised by [Kaixiang Lin](https://kaixianglin.github.io/), where I worked on building a frontier reasoning model, including data collection and model training.
 
+From April 2026 to November 2026, I was a research intern at Shanghai Innovation Institute (SII), supervised by Prof. [Pengfei Liu](http://pfliu.com/).
+
 
 <!-- Previously, I obtained my Bachelor Degree at [Beihang University](https://www.buaa.edu.cn/) (BUAA), major in computer science. -->
 
